@@ -1,0 +1,13 @@
+mesa
+
+numpy
+
+matplotlib
+
+jupyterlab
+
+pandas
+
+seaborn
+
+scipy
